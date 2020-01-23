@@ -3,7 +3,7 @@
 
 
 # Distributed calculation
-The system runs calculation suing the Apache Spark framework.
+The system runs calculations using the Apache Spark framework.
 
 # Seismic operations
 The system run Seismic Unix operations wrapped py Python. 
